@@ -1,6 +1,6 @@
 // Firebase variables
 var config = {
-  apiKey: "AIzaSyCcnhW2HKL7odkcP1KpkX2aW5E-GDVHPYw",
+  apiKey: "AIzaSyCaL7D8x9tpejBPud02o17CZhcdVwQ-zt8",
   authDomain: "gainzandgrains-1508352019290.firebaseapp.com",
   databaseURL: "https://gainzandgrains-1508352019290.firebaseio.com",
   projectId: "gainzandgrains-1508352019290",
